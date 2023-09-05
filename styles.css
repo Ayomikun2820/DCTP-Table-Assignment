@@ -15,6 +15,7 @@ h1 {
   justify-content: center;
   background-image: linear-gradient(to right, #0f0c29, #3b357c, #24243e  );
   padding: 20px;
+  margin: 10px;
 }
 
 /* table header bg color  */
@@ -37,7 +38,10 @@ td {
   text-align: center;
 }
 
-
+footer{
+  color: white;
+  text-align: center;
+}
 
 th:hover {
   cursor: pointer;
